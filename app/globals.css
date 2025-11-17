@@ -1,7 +1,7 @@
 @import 'tailwindcss';
 @import 'tw-animate-css';
 
-@custom-variant dark (&:is(.dark *));
+/* Removed conflicting custom dark variant - let next-themes handle dark mode */
 
 :root {
   /* Updated color scheme for medical/healthcare theme */
